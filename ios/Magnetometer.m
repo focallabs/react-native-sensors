@@ -66,8 +66,6 @@ RCT_EXPORT_METHOD(getData:(RCTResponseSenderBlock) cb) {
     double z = self->_motionManager.magnetometerData.magneticField.z;
     double timestamp = self->_motionManager.magnetometerData.timestamp;
 
-    NSLog(@"getData: %f, %f, %f, %f", x, y, z, timestamp);
-
     cb(@[[NSNull null], @{
                  @"x" : [NSNumber numberWithDouble:x],
                  @"y" : [NSNumber numberWithDouble:y],
@@ -89,7 +87,6 @@ RCT_EXPORT_METHOD(startUpdates) {
          double y = magnetometerData.magneticField.y;
          double z = magnetometerData.magneticField.z;
          double timestamp = magnetometerData.timestamp;
-         NSLog(@"startMagnetometerUpdates: %f, %f, %f, %f", x, y, z, timestamp);
 
          [self.bridge.eventDispatcher sendDeviceEventWithName:@"Magnetometer" body:@{
                                                                                    @"x" : [NSNumber numberWithDouble:x],

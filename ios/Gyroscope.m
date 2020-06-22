@@ -63,7 +63,6 @@ RCT_EXPORT_METHOD(getData:(RCTResponseSenderBlock) cb) {
     double z = self->_motionManager.gyroData.rotationRate.z;
     double timestamp = self->_motionManager.gyroData.timestamp;
 
-    NSLog(@"getData: %f, %f, %f, %f", x, y, z, timestamp);
 
     cb(@[[NSNull null], @{
                  @"x" : [NSNumber numberWithDouble:x],
@@ -86,7 +85,6 @@ RCT_EXPORT_METHOD(startUpdates) {
          double y = gyroData.rotationRate.y;
          double z = gyroData.rotationRate.z;
          double timestamp = gyroData.timestamp;
-         NSLog(@"startUpdates: %f, %f, %f, %f", x, y, z, timestamp);
 
          [self.bridge.eventDispatcher sendDeviceEventWithName:@"Gyroscope" body:@{
                                                                                      @"x" : [NSNumber numberWithDouble:x],
