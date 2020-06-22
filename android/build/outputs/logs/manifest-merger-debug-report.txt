@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:3:11-32
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+		ADDED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+		ADDED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+		ADDED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+		ADDED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new/node_modules/react-native-sensors/android/src/main/AndroidManifest.xml

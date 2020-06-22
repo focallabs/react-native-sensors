@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "react-native-sensors@3.0.0",
+      "/Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new"
+    ]
+  ],
+  "_from": "react-native-sensors@3.0.0",
+  "_id": "react-native-sensors@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-F9bgzpmDCjm+6zc9IGbXRQ/9x0E1gltXNjedNzrwemOhwZ3MUjB0Wq1HJK8u10EZYMpY2S/DxxPx6MrCRWy+MQ==",
+  "_location": "/react-native-sensors",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-sensors@3.0.0",
+    "name": "react-native-sensors",
+    "escapedName": "react-native-sensors",
+    "rawSpec": "3.0.0",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sensors/-/react-native-sensors-3.0.0.tgz",
+  "_spec": "3.0.0",
+  "_where": "/Users/duongtung/Remote-Working/FocalLab/WTV_UGC/wtv-ugc-app-new",
+  "author": {
+    "name": "Daniel Schmidt",
+    "email": "danielmschmidt92@gmail.com",
+    "url": "http://danielmschmidt.de"
+  },
+  "babel": {
+    "presets": [
+      "react-native"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-sensors/react-native-sensors/issues"
+  },
+  "dependencies": {
+    "rxjs": "^5.0.2"
+  },
+  "description": "A developer friendly approach for sensors in react-native",
+  "devDependencies": {
+    "all-contributors-cli": "4.11.1",
+    "babel-core": "6.26.0",
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react": "16.3.2",
+    "react-native": "0.55.3",
+    "regenerator-runtime": "0.11.1"
+  },
+  "homepage": "https://github.com/react-native-sensors/react-native-sensors",
+  "jest": {
+    "timers": "fake"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-sensors",
+  "peerDependencies": {
+    "react-native": ">=0.39.0",
+    "prop-types": "^15.6.0"
+  },
+  "repository": {
+    "url": "git+ssh://git@github.com/react-native-sensors/react-native-sensors.git",
+    "type": "git"
+  },
+  "scripts": {
+    "contributor:add": "all-contributors add",
+    "contributor:generate": "all-contributors generate",
+    "test": "jest"
+  },
+  "version": "3.0.0"
+}
